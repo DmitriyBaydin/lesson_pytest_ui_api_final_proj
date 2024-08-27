@@ -27,6 +27,6 @@ lesson_pytest_ui_api_final_proj.git'
 - [Генератор файла .gitignore](https://www.toptal.com/developers/gitignore)
 
 ### Библиотеки (!)
-- pyp install pytest
+- pip install pytest
 - pip install selenium
 - pip install webdriver-manager
